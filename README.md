@@ -3,8 +3,6 @@
 ## 1. Project Overview
 
 **Project Name:** Watson-Deployment (Benefits Eligibility Model)
-**Project Type:** ML model deployment (IBM Watson Machine Learning)
-**Status:** Development
 
 ### Description
 
